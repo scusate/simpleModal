@@ -1,8 +1,8 @@
 # simpleModal
 A simple page with modal / pop-up
 
-![Modal Preview](/Modal.gif)
+![Modal Preview](/StickyNavbar1.gif)
 
 Mobile View:
 
-![Modal Preview](/Modal2.gif)
+![Modal Preview](/StickyNavbar2.gif)
