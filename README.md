@@ -1,7 +1,7 @@
 # simpleModal
 A simple page with modal / pop-up
 
-![Modal Preview](/Modal1.gif)
+![Modal Preview](/Modal.gif)
 
 Mobile View:
 
